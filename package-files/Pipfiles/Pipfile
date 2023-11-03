@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 requests = "*"
 awscli = "==1.18.23"
-flask = "==1.1.2"
+flask = "==2.2.5"
 flask-sqlalchemy = "==2.4.4"
 molecule = "==3.0.4"
 django = "==1.2"
